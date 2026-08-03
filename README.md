@@ -22,10 +22,19 @@ The application presents an animated chemistry laboratory scene with custom-draw
 - C++
 - SFML
 
-## Preview
+## Project Preview
 
 ![Chemistry Lab Preview](chemistry-lab-preview.png)
+The application renders an interactive chemistry laboratory with animated test tubes, particle effects, molecule illustrations and laboratory equipment using SFML.
 
+## Skills Demonstrated
+
+- Object-Oriented Programming (OOP)
+- 2D Graphics Programming
+- SFML
+- Animation
+- Particle Systems
+- C++
 ## Author
 
 Nataša Todorović  
